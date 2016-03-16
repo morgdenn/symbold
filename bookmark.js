@@ -6,14 +6,14 @@ javascript:(function(){
 		[' and ', ' & '],
 		[' at ', ' @ '],
 		[' the ', ' Ћ '],
-		[' there ', ' Ђ ']
+		[' there ', ' Ђ '],
 		[' or ', ' ‖ '],
 		[' to ', ' ⇥ '],
 		[' from ', ' ↦ '],
-		[' with ', ' W/ ']
-		[' without ', ' W/O ']
-		[' (s|S)tar ', ' ☆ ']
-		[' percent ', ' % '],
+		[' with ', ' W/ '],
+		[' without ', ' W/O '],
+		[' (s|S)tar ', ' ☆ '],
+		[' percent ', ' % ']
 	];
 
 
