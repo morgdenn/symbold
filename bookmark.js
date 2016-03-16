@@ -2,13 +2,18 @@ javascript:(function(){
 	
 	var charMap = [
 		[' be ', ' ᗺ '],
-		['"Be ', ' "ᗺ '],
+		[' are ', ' Я '],
 		[' and ', ' & '],
 		[' at ', ' @ '],
 		[' the ', ' Ћ '],
-		[' or ', ' || '],
-		[' to ', ' ↦ '],
+		[' there ', ' Ђ ']
+		[' or ', ' ‖ '],
+		[' to ', ' ⇥ '],
+		[' from ', ' ↦ '],
+		[' with ', ' W/ ']
+		[' without ', ' W/O ']
 		[' (s|S)tar ', ' ☆ ']
+		[' percent ', ' % '],
 	];
 
 
