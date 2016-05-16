@@ -13,7 +13,7 @@ javascript:(function(){
 		[' the ', ' Ћ '],
 		[' there ', ' Ħ '], 
 		[' their ', ' Ħ '],
-		[' this ', ' ʦ ']
+		[' this ', ' ʦ '],
 		[' or ', ' ‖ '],
 		[' to ', ' ⇥ '],
 		[' from ', ' ↦ '],
