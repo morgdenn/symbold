@@ -1,12 +1,19 @@
 javascript:(function(){
 	
 	var charMap = [
+		/* contractions - https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions */
+		[' it is ', ' ’tis '],
+		[' it was ', ' ’twas '],
+		
+		/* made up. */
 		[' be ', ' ᗺ '],
 		[' are ', ' Я '],
 		[' and ', ' & '],
 		[' at ', ' @ '],
 		[' the ', ' Ћ '],
-		[' there ', ' Ђ '],
+		[' there ', ' Ħ '], 
+		[' their ', ' Ħ '],
+		[' this ', ' ʦ ']
 		[' or ', ' ‖ '],
 		[' to ', ' ⇥ '],
 		[' from ', ' ↦ '],
@@ -14,6 +21,8 @@ javascript:(function(){
 		[' without ', ' W/O '],
 		[' star ', ' ☆ '],
 		[' percent ', ' % '],
+		
+		/* numbers */
 		[' one ', ' 1 '],
 		[' two ', ' 2 '],
 		[' three ', ' 3 '],
@@ -24,7 +33,7 @@ javascript:(function(){
 		[' eight ', ' 8 '],
 		[' nine ', ' 9 '],
 		[' ten ', ' 10 '],
-		[' eleven ', ' 11 '],
+		[' eleven ', ' 11 ']
 	];
 
 
