@@ -1,1 +1,4 @@
 # symbold
+
+
+http://jscompress.com/
