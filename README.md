@@ -1,4 +1,3 @@
 # symbold
 
-
-http://jscompress.com/
+Convert text to symbols & abbreviations
